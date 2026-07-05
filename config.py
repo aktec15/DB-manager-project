@@ -1,0 +1,2 @@
+DATABASE = 'projects.db'
+TOKEN = ''
